@@ -24,6 +24,6 @@ About R script
 * `With the average of each variable for each activity and each subject.`
 
 # Variables:
-* `x_train_data, y_train_data, x_test_data, y_test_data, subject_train_data and subject_test_data contain the data from the downloaded files.`
-* 'merge_train, merge_test and allData merge the previous datasets to further analysis.'
-* `secTidyDataset contains the result data, which is a tidy data set`
+* `x_train_data`, `y_train_data`, `x_test_data`, `y_test_data`, `subject_train_data` and `subject_test_data` contain the data from the downloaded files.
+* 'merge_train`, `merge_test` and `allData` merge the previous datasets to further analysis.
+* `secTidyDataset` contains the result data, which is a tidy data set.
